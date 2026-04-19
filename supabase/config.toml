@@ -1,0 +1,2 @@
+[functions.reset-staff-password-by-email]
+verify_jwt = false
